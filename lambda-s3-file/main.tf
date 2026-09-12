@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "lambda_bucket" {
-  bucket = "my-terraform-lambda-bucket-123456789"
+  bucket = "my-terraform-lambda-bucket-1234567856349"
 }
 
 resource "aws_s3_object" "lambda_zip" {
